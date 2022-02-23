@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ## My Progress
-![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=kevin2-cyber&theme=dracula&hide_border=true)
 <p align="center">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=somekindofwallflower&show_icons=true&locale=en&theme=radical"                alt="somekindofwallflower"/>
-  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=somekindofwallflower&theme=radical" alt="somekindofwallflower" />
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=kevin2-cyber&show_icons=true&locale=en&theme=radical"                alt="kevin2-cyber"/>
+  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=kevin2-cyber&theme=radical" alt="kevin2-cyber" />
 </p>
 ![](./profile-3d-contrib/profile-night-green.svg)
