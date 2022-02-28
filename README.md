@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything mobile development.
 - 🤔 I’m looking for help with android development and application of software architectures into my apps.
 - 💬 Ask me about anything relating to mobile development.
-- 📫 How to reach me: Call/WhatsApp (+233556568978) or email me kimikevin@zoho.com
+- 📫 How to reach me: Call/WhatsApp (0556568978) or email me kimikevin@zoho.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Loves playing guitar
 ## My Progress
