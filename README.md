@@ -21,4 +21,7 @@ Here are some ideas to get you started:
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=kevin2-cyber&show_icons=true&locale=en&theme=radical"                alt="kevin2-cyber"/>
   <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=kevin2-cyber&theme=radical" alt="kevin2-cyber" />
 </p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kevin2-cyber&theme=dracula)  
+
+![GitHub metrics](https://metrics.lecoq.io/kevin2-cyber)  -->
 <!--[](./profile-3d-contrib/profile-night-green.svg)-->
