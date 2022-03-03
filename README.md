@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 </p>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kevin2-cyber&theme=dracula)  
 
-![GitHub metrics](https://metrics.lecoq.io/kevin2-cyber)  -->
+![GitHub metrics](https://metrics.lecoq.io/kevin2-cyber)
 <!--[](./profile-3d-contrib/profile-night-green.svg)-->
