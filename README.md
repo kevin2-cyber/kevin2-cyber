@@ -22,10 +22,10 @@ Here are some ideas to get you started:
   <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=kevin2-cyber&theme=radical" alt="kevin2-cyber" />
 </p>
 
-
+<!-- <div sty></div> -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin2-cyber&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)
-<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kevin2-cyber&theme=dracula)-->
-<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kevin2-cyber&theme=dracula)-->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kevin2-cyber&theme=dracula)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kevin2-cyber&theme=dracula)
 
 
 ![GitHub metrics](https://metrics.lecoq.io/kevin2-cyber)
