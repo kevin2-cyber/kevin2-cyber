@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Call/WhatsApp (0556568978) or email me kimikevin@zoho.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Loves playing guitar
+
+## My Tech Stack
+
 ## My Progress
 <p align="center">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=kevin2-cyber&show_icons=true&locale=en&theme=radical"                alt="kevin2-cyber"/>
