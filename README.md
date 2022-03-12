@@ -28,10 +28,9 @@ Here are some ideas to get you started:
   <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=kevin2-cyber&theme=radical" alt="kevin2-cyber" />
 </p>
 
-<p align="center">
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kevin2-cyber&theme=github_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kevin2-cyber&theme=github_dark)
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kevin2-cyber&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kevin2-cyber&theme=github_dark)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin2-cyber&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kevin2-cyber&theme=dracula)
