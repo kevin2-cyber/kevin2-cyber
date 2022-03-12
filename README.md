@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 -->
+<img width=1000 src="https://github-profile-trophy.vercel.app/?username=kevin2-cyber&column=7&theme=gruvbox&no-frame=true"/>
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kevin2-cyber&label=Profile%20views&color=e91e63&style=flat" alt="kevin2-cyber" /> </p>
 <p align="center"> <img src="https://img.shields.io/github/followers/kevin2-cyber?style=social" alt="kevin2-cyber" /> </p>
 
