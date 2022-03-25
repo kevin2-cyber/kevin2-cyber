@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <img width=1000 src="https://github-profile-trophy.vercel.app/?username=kevin2-cyber&column=8&theme=gruvbox&no-frame=true"/>
 
 
-- 🔭 I’m currently working on a Whatsapp Clone, Recipe app and a notes app.
+- 🔭 I’m currently working on a Whatsapp Clone, Recipe app, notes app and a portfolio site.
 - 🌱 I’m currently learning android development using kotlin and java,flutter and web development.
 - 👯 I’m looking to collaborate on anything mobile development.
 - 🤔 I’m looking for help with android development and application of software architectures into my apps.
