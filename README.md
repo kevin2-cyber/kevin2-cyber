@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything relating to mobile development.
 - 📫 How to reach me: Call/WhatsApp (0556568978) or email me kimikevin@zoho.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: Loves playing guitar
+- ⚡ Fun fact: Loves playing guitar and loves reading 
 
 ## My Tech Stack
 
