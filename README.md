@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 ## My Trophies
 
-<img width=1000 src="https://github-profile-trophy.vercel.app/?username=kevin2-cyber&column=7&theme=gruvbox&no-frame=true"/>
+<img width=1000 src="https://github-profile-trophy.vercel.app/?username=kevin2-cyber&column=6&theme=gruvbox&no-frame=true"/>
 
 
 - 🔭 I’m currently working on a Whatsapp Clone, Recipe app and a notes app.
