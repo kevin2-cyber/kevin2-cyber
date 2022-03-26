@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on a Whatsapp Clone, Recipe app, notes app and my portfolio site.
-- 🌱 I’m currently learning mobile app development using flutter and web development.
+- 🌱 I’m currently learning Web development and mobile app development using native android and flutter .
 - 👯 I’m looking to collaborate on anything mobile development.
 - 🤔 I’m looking for help with android development and application of software architectures into my apps.
 - 💬 Ask me about anything relating to mobile development.
