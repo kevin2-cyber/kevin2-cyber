@@ -40,4 +40,3 @@ Here are some ideas to get you started:
 
 
 ![GitHub metrics](https://metrics.lecoq.io/kevin2-cyber)
-<!--[](./profile-3d-contrib/profile-night-green.svg)-->
