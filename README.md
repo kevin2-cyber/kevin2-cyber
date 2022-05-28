@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with android development and application of software engineering.
 - 💬 Ask me about anything relating to mobile development.
 - 📫 How to reach me: kimikevin@zoho.com
-- 😄 Pronouns: Prefer not to say
+- 😄 Pronouns: He
 - ⚡ Fun fact: Loves playing guitar and loves reading 
 
 <!--My Tech Stack-->
