@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on my portfolio site.
-- 🌱 I’m currently learning Web development and mobile app development using native android and flutter .
+- 🌱 I’m currently learning android development with java.
 - 👯 I’m looking to collaborate on anything mobile development.
-- 🤔 I’m looking for help with DevOps Engineering. 
+- 🤔 I’m looking for help with Clean Architecture. 
 - 💬 Ask me about anything relating to mobile development.
 - 📫 How to reach me: kimikevin@zoho.com
 - 😄 Pronouns: He
