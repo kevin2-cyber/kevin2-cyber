@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He
 - ⚡ Fun fact: Loves playing guitar and loves reading 
 
+## Tools and Languages
+
 
 ## My Progress
 <p align="center">
