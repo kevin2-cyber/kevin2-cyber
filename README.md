@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Loves playing guitar and loves reading 
 
 ## Tools and Languages
+<p align="left">
+</p>
 
 
 ## My Progress
