@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <a href="https://www.oracle.com/java/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>
     <a href="https://www.flutter.dev" target="_blank"><img src="https://img.icons8.com/color/48/000000/flutter.png"/></a>
-    <a href="https://www.flutter.dev" target="_blank"><img src="laravel.png" width="50" height="50"/></a>
+    <a href="https://laravel.com/docs/10.x" target="_blank"><img src="laravel.png" width="50" height="50"/></a>
 </p>
 
 
