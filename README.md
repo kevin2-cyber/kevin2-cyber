@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     - Systems Design 
     - UI/UX Design
     - Software Engineering
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning:
     - Java
     - Android development(Java & Kotlin)
     - Data Structures and Algorithms.
