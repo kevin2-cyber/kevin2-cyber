@@ -30,7 +30,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything mobile development.
 - 🤔 I’m looking for help with Software Engineering. 
 - 💬 Ask me about anything relating to mobile development.
-- 📫 How to reach me: kimikevin@zoho.com
+- 📫 How to reach me:
+    -  Email me: kimikevin@zoho.com
+    -  [Twitter](https://twitter.com/roaakdm)
+    -  [LinkedIn](https://www.linkedin.com/in/roaa-kh/)
 - 😄 Pronouns: He
 - ⚡ Fun fact: Loves playing guitar and loves reading 
 
