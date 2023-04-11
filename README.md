@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 <img width=1000 src="https://github-profile-trophy.vercel.app/?username=kevin2-cyber&column=8&theme=gruvbox&no-frame=true"/>
 
 
-- 🔭 I’m currently exploring Android with java.
+- 🔭 I’m currently exploring:
+    - Java
+    - Data Structures and Algorithms.
+    - Systems Design 
 - 🌱 I’m currently learning android development with java.
 - 👯 I’m looking to collaborate on anything mobile development.
 - 🤔 I’m looking for help with Clean Architecture. 
