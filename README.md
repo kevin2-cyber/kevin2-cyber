@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything relating to mobile development.
 - 📫 How to reach me:
     -  Email me: kimikevin@zoho.com
-    -  [Twitter](https://twitter.com/roaakdm)
-    -  [LinkedIn](https://www.linkedin.com/in/roaa-kh/)
+    -  [Twitter](https://twitter.com/KimiKevin2?t=zSovVZNdftPwOM8lRfwWag&s=08)
+    -  [LinkedIn](https://www.linkedin.com/in/kelvin-eduful-294712237/)
 - 😄 Pronouns: He
 - ⚡ Fun fact: Loves playing guitar and loves reading 
 
