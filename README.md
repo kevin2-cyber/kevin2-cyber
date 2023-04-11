@@ -18,9 +18,17 @@ Here are some ideas to get you started:
     - Java
     - Data Structures and Algorithms.
     - Systems Design 
-- 🌱 I’m currently learning android development with java.
+    - UI/UX Design
+    - Software Engineering
+- 🌱 I’m currently learning
+    - Java
+    - Android development(Java & Kotlin)
+    - Data Structures and Algorithms.
+    - Web development
+    - Backend development(Spring and SpringBoot)
+    - UI/UX design
 - 👯 I’m looking to collaborate on anything mobile development.
-- 🤔 I’m looking for help with Clean Architecture. 
+- 🤔 I’m looking for help with Software Engineering. 
 - 💬 Ask me about anything relating to mobile development.
 - 📫 How to reach me: kimikevin@zoho.com
 - 😄 Pronouns: He
