@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="icons/springboot.png" height="48"/> </a>
     <a href="https://www.flutter.dev" target="_blank"><img src="https://img.icons8.com/color/48/000000/flutter.png"/></a>
     <a href="https://laravel.com/docs/10.x" target="_blank"><img src="icons/laravel.png" width="48" height="48"/></a>
-    <a href="https://developer.android.com/studio" target="_blank"><img src="icons/android-studio.png" width="48" height="48"/></a>
+    <a href="https://developer.android.com/studio" target="_blank"><img src="icons/new-studio-logo.png" width="48" height="48"/></a>
 </p>
 
 
