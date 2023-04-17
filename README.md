@@ -14,12 +14,26 @@ Here are some ideas to get you started:
 <img width=1000 src="https://github-profile-trophy.vercel.app/?username=kevin2-cyber&column=8&theme=gruvbox&no-frame=true"/>
 
 
-- 🔭 I’m currently exploring Android with java.
-- 🌱 I’m currently learning android development with java.
+- 🔭 I’m currently exploring:
+    - Java
+    - Data Structures and Algorithms.
+    - Systems Design 
+    - UI/UX Design
+    - Software Engineering
+- 🌱 I’m currently learning:
+    - Java
+    - Android development(Java & Kotlin)
+    - Data Structures and Algorithms.
+    - Web development
+    - Backend development(Spring and SpringBoot)
+    - UI/UX design
 - 👯 I’m looking to collaborate on anything mobile development.
-- 🤔 I’m looking for help with Clean Architecture. 
+- 🤔 I’m looking for help with Software Engineering. 
 - 💬 Ask me about anything relating to mobile development.
-- 📫 How to reach me: kimikevin@zoho.com
+- 📫 How to reach me:
+    -  Email me: kimikevin@zoho.com
+    -  [Twitter](https://twitter.com/KimiKevin2?t=zSovVZNdftPwOM8lRfwWag&s=08)
+    -  [LinkedIn](https://www.linkedin.com/in/kelvin-eduful-294712237/)
 - 😄 Pronouns: He
 - ⚡ Fun fact: Loves playing guitar and loves reading 
 
