@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kevin2-cyber&theme=github_dark)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin2-cyber&card_width=800&size_weight=0.5&count_weight=0.5&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin2-cyber&card_width=800&size_weight=0.5&count_weight=0.5&langs_count=12&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![GitHub metrics](https://metrics.lecoq.io/kevin2-cyber)
