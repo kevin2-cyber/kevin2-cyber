@@ -54,6 +54,7 @@ Here are some ideas to get you started:
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=kevin2-cyber&show_icons=true&locale=en&theme=radical"                alt="kevin2-cyber"/>
   <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=kevin2-cyber&theme=radical" alt="kevin2-cyber" />
 </p>
+<a href="http://www.github.com/kevin2-cyber"><img src="https://github-readme-activity-graph.vercel.app/graph?username=kevin2-cyber&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kevin2-cyber&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kevin2-cyber&theme=github_dark)
