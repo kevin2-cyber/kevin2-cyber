@@ -61,5 +61,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin2-cyber&card_width=800&size_weight=0.5&count_weight=0.5&langs_count=12&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/kevin2-cyber" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin2-cyber&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 ![GitHub metrics](https://metrics.lecoq.io/kevin2-cyber)
