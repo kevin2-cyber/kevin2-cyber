@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 
 ## My Progress
-<p align="center">
+<p>
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=kevin2-cyber&show_icons=true&locale=en&theme=radical"                alt="kevin2-cyber"/>
   <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=kevin2-cyber&theme=radical" alt="kevin2-cyber" />
 </p>
