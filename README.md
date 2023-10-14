@@ -33,9 +33,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He
 - ⚡ Fun fact: Loves playing guitar and loves reading
 
-  ## My Trophies
-
-<img width=1000 src="https://github-profile-trophy.vercel.app/?username=kevin2-cyber&column=8&theme=gruvbox&no-frame=true"/>
 
 ## 🚀 Tools and Languages
 <p align="left">
@@ -47,6 +44,10 @@ Here are some ideas to get you started:
     <a href="https://laravel.com/docs/10.x" target="_blank"><img src="icons/laravel.png" width="48" height="48"/></a>
     <a href="https://developer.android.com/studio" target="_blank"><img src="icons/new-studio-logo.png" width="48" height="48"/></a>
 </p>
+
+  ## My Trophies
+
+<img width=1000 src="https://github-profile-trophy.vercel.app/?username=kevin2-cyber&column=8&theme=gruvbox&no-frame=true"/>
 
 
 ## My Progress
