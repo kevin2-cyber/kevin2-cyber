@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Loves playing guitar and loves reading
 
 
-## 🚀 Tools and Languages
+## 🚀 Skills
 <p align="left">
     <a href="https://www.oracle.com/java/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://kotlinlang.org/docs/getting-started.html" target="_blank"> <img src="icons/icons8-kotlin-48.png"/> </a>
