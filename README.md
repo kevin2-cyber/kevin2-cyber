@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He
 - ⚡ Fun fact: Loves playing guitar and loves reading
 
-
-## 🚀 Skills
+<details>
+    <summary>🚀 Skills</summary>
 <p align="left">
     <a href="https://www.oracle.com/java/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://kotlinlang.org/docs/getting-started.html" target="_blank"> <img src="icons/icons8-kotlin-48.png"/> </a>
@@ -44,6 +44,7 @@ Here are some ideas to get you started:
     <a href="https://laravel.com/docs/10.x" target="_blank"><img src="icons/laravel.png" width="48" height="48"/></a>
     <a href="https://developer.android.com/studio" target="_blank"><img src="icons/new-studio-logo.png" width="48" height="48"/></a>
 </p>
+</details>
 
 <details>
     <summary>My Trophies</summary>
