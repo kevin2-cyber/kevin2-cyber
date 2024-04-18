@@ -45,9 +45,12 @@ Here are some ideas to get you started:
     <a href="https://developer.android.com/studio" target="_blank"><img src="icons/new-studio-logo.png" width="48" height="48"/></a>
 </p>
 
-  ## My Trophies
+<details>
+    <summary>My Trophies</summary>
+    <img width=1000 src="https://github-profile-trophy.vercel.app/?username=kevin2-cyber&column=8&theme=gruvbox&no-frame=true"/>
+</details>
 
-<img width=1000 src="https://github-profile-trophy.vercel.app/?username=kevin2-cyber&column=8&theme=gruvbox&no-frame=true"/>
+
 
 
 <details>
@@ -60,7 +63,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/kevin2-cyber" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin2-cyber&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </details>
-![GitHub metrics](https://metrics.lecoq.io/kevin2-cyber)
+<!-- ![GitHub metrics](https://metrics.lecoq.io/kevin2-cyber) -->
 <details> 
 <summary>Graph</summary>   
    
