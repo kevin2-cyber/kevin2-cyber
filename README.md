@@ -66,6 +66,6 @@ Here are some ideas to get you started:
 <details> 
 <summary>Graph</summary>   
    
-![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-season-animate.svg)
 
 </details> 
