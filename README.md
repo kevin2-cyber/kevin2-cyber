@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     -  Email me: kimikevin@zoho.com
     -  [Twitter](https://twitter.com/KimiKevin2?t=zSovVZNdftPwOM8lRfwWag&s=08)
     -  [LinkedIn](https://www.linkedin.com/in/kelvin-eduful-294712237/)
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Loves playing guitar and loves reading
 
 <details>
