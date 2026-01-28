@@ -20,7 +20,6 @@ Here are some ideas to get you started:
     - Java
     - Android development(Java & Kotlin)
     - Data Structures and Algorithms.
-    - Web development
     - Backend development(Spring and SpringBoot)
     - UI/UX design
 - 👯 I’m looking to collaborate on anything mobile development.
