@@ -14,7 +14,6 @@ Here are some ideas to get you started:
     - Java
     - Data Structures and Algorithms.
     - Systems Design 
-    - UI/UX Design
     - Software Engineering
 - 🌱 I’m currently learning:
     - Java
