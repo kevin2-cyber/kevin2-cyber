@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     - Software Engineering
 - 🌱 I’m currently learning:
     - Java
-    - Android development(Java & Kotlin)
+    - Android development
     - Data Structures and Algorithms.
     - Backend development(Spring and SpringBoot)
 - 👯 I’m looking to collaborate on anything mobile development.
