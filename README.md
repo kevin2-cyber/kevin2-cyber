@@ -16,7 +16,6 @@ Here are some ideas to get you started:
     - Systems Design 
     - Software Engineering
 - 🌱 I’m currently learning:
-    - Java
     - Android development
     - Data Structures and Algorithms.
     - Backend development(Spring and SpringBoot)
