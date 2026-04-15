@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently exploring:
     - Data Structures and Algorithms.
+    - Android development
     - Systems Design 
     - Software Engineering
 - 🌱 I’m currently learning:
