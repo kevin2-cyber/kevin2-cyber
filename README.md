@@ -11,14 +11,13 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently exploring:
-    - Data Structures and Algorithms.
-    - Android development
-    - Systems Design 
-    - Software Engineering
+    - **Native iOS Development** (SwiftUI, SwiftData).
+    - **C++** optimization and memory-level execution.
+    - Context-aware mobile hardware automation
 - 🌱 I’m currently learning:
-    - Android development
-    - Data Structures and Algorithms.
-    - Backend development(Spring and SpringBoot)
+    - **Advanced Android Architecture** (View Binding, Data Binding, Jetpack Compose).
+    - Building scalable **REST APIs with Spring Boot & Docker**.
+    - **Data Structures and Algorithms**
 - 👯 I’m looking to collaborate on anything mobile development.
 - 🤔 I’m looking for help with Software Engineering. 
 - 💬 Ask me about anything relating to mobile development.
