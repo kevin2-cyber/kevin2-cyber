@@ -14,6 +14,7 @@ Here are some ideas to get you started:
     - **Native iOS Development** (SwiftUI, SwiftData).
     - Optimization and memory-level execution.
     - Context-aware mobile hardware automation
+    - gRPC
 - 🌱 I’m currently learning:
     - **Advanced Android Architecture** (View Binding, Data Binding, Jetpack Compose).
     - Building scalable **REST APIs with Spring Boot & Docker**.
