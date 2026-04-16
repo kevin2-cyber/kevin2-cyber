@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently exploring:
     - **Native iOS Development** (SwiftUI, SwiftData).
-    - **C++** optimization and memory-level execution.
+    - Optimization and memory-level execution.
     - Context-aware mobile hardware automation
 - 🌱 I’m currently learning:
     - **Advanced Android Architecture** (View Binding, Data Binding, Jetpack Compose).
