@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     - gRPC
 - 🌱 I’m currently learning:
     - **Advanced Android Architecture** (View Binding, Data Binding, Jetpack Compose).
-    - Building scalable **REST APIs with Spring Boot & Docker**.
+    - Building scalable **REST APIs with Spring Boot**.
     - **Data Structures and Algorithms**
     - History and philosophy
 - 👯 I’m looking to collaborate on anything mobile development.
