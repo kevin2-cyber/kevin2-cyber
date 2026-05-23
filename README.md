@@ -15,7 +15,6 @@ Here are some ideas to get you started:
     - Optimization and memory-level execution.
     - Context-aware mobile hardware automation
     - gRPC
-    - microservices
 - 🌱 I’m currently learning:
     - **Advanced Android Architecture** (View Binding, Data Binding, Jetpack Compose).
     - Building scalable **REST APIs with Spring Boot**.
