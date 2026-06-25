@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Software Engineering. 
 - 💬 Ask me about anything relating to mobile development.
 - 📫 How to reach me:
-    -  Email me: kimikevin@zoho.com
+    -  Email me: kieduful47@gmail.com
     -  [Twitter](https://twitter.com/KimiKevin2?t=zSovVZNdftPwOM8lRfwWag&s=08)
     -  [LinkedIn](https://www.linkedin.com/in/kelvin-eduful-294712237/)
 - 😄 Pronouns: He/Him
